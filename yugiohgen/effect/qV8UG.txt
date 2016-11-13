@@ -1,0 +1,1 @@
+When an opponent's monster declares an attack: You take damage equal to the attack of that monster. Then take control of it

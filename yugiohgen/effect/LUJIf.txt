@@ -1,0 +1,1 @@
+Upon dealing damage to your opponents life points, they are "Spooked" for 3 turns, and unable to move.

@@ -1,0 +1,1 @@
+After damage calculation, when this card battles a monster: Banish that monster

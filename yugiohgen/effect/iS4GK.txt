@@ -1,0 +1,1 @@
+When an "Random" monster attacks, if its ATK is lower than the ATK of your monster, you dont take battle damage.
